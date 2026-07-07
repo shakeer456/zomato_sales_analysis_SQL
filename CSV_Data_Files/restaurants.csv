@@ -1,0 +1,201 @@
+restaurant_id,restaurant_name,city,opening_time,closing_time,total_opening_hours
+1,Royal Hub Eatery - Italian,Surat,08:00:00,22:00:00,16
+2,Royal Bites Grill - North Indian,Delhi,07:00:00,23:00:00,11
+3,Flavor Bites Cafe - Italian,Patna,12:00:00,02:00:00,14
+4,Food House Diner - North Indian,Pune,08:00:00,01:00:00,13
+5,Delight Corner Bistro - South Indian,Lucknow,07:00:00,01:00:00,9
+6,Hungry Zone Diner - North Indian,Pune,12:00:00,01:00:00,16
+7,Royal Spot Restaurant - Mexican,Patna,12:00:00,02:00:00,13
+8,Zesty Palace Restaurant - Italian,Delhi,09:00:00,22:00:00,11
+9,Royal Spot Eatery - Continental,Thane,08:00:00,00:00:00,13
+10,Food Express Restaurant - Chinese,Ghaziabad,11:00:00,23:00:00,10
+11,Kitchen Spot Eatery - Italian,Patna,12:00:00,00:00:00,8
+12,Food Hub Kitchen - Mexican,Nagpur,07:00:00,23:00:00,13
+13,Food House Grill - Chinese,Thane,09:00:00,23:00:00,11
+14,Flavor Inn Eatery - Fast Food,Vadodara,11:00:00,01:00:00,13
+15,Food Corner Bakery - South Indian,Bhopal,07:00:00,22:00:00,10
+16,Taste Spot Diner - Fast Food,Bangalore,10:00:00,02:00:00,15
+17,Flavor Express Bakery - South Indian,Mumbai,12:00:00,02:00:00,12
+18,Hungry Point Eatery - Chinese,Indore,10:00:00,22:00:00,12
+19,Flavor Corner Bakery - Mexican,Hyderabad,12:00:00,02:00:00,11
+20,Taste Zone Dhaba - Beverages,Patna,07:00:00,02:00:00,13
+21,Kitchen Hub Restaurant - Mexican,Kanpur,08:00:00,22:00:00,11
+22,Zesty Point Restaurant - South Indian,Bhopal,11:00:00,23:00:00,10
+23,Kitchen Inn Dhaba - Beverages,Pune,11:00:00,01:00:00,11
+24,Flavor Palace Eatery - Continental,Nagpur,10:00:00,02:00:00,15
+25,Royal Palace Bistro - Continental,Bangalore,07:00:00,02:00:00,16
+26,Food Bites Bistro - South Indian,Mumbai,12:00:00,22:00:00,11
+27,Royal Hub Kitchen - Beverages,Bangalore,08:00:00,00:00:00,15
+28,Food Inn Dhaba - Street Food,Vadodara,10:00:00,23:00:00,15
+29,Chef Palace Restaurant - Fast Food,Hyderabad,09:00:00,01:00:00,14
+30,Kitchen Hub Restaurant - Fast Food,Delhi,12:00:00,00:00:00,9
+31,Food Palace Bistro - Desserts,Patna,08:00:00,01:00:00,10
+32,Delight House Bistro - Desserts,Bangalore,11:00:00,22:00:00,8
+33,Flavor Hub Restaurant - Chinese,Surat,10:00:00,01:00:00,15
+34,Food Spot Cafe - Fast Food,Chennai,07:00:00,01:00:00,12
+35,Kitchen Express Grill - Desserts,Patna,08:00:00,23:00:00,12
+36,Food Hub Diner - North Indian,Patna,12:00:00,00:00:00,8
+37,Spice Bites Pizzeria - Beverages,Visakhapatnam,08:00:00,22:00:00,16
+38,Royal Corner Restaurant - South Indian,Ghaziabad,12:00:00,23:00:00,14
+39,Royal Bites Bistro - Street Food,Vadodara,07:00:00,02:00:00,9
+40,Chef Bites Diner - Continental,Visakhapatnam,09:00:00,23:00:00,13
+41,Food Express Grill - Mexican,Ahmedabad,10:00:00,00:00:00,9
+42,Spice House Diner - South Indian,Vadodara,07:00:00,02:00:00,11
+43,Flavor Express Dhaba - South Indian,Kanpur,08:00:00,00:00:00,12
+44,Taste House Bakery - Street Food,Jaipur,12:00:00,02:00:00,8
+45,Flavor Express Restaurant - Mexican,Ahmedabad,07:00:00,22:00:00,16
+46,Taste Express Eatery - Italian,Ghaziabad,12:00:00,00:00:00,11
+47,Delight Inn Pizzeria - North Indian,Pune,07:00:00,01:00:00,12
+48,Spice Hub Kitchen - Mexican,Ahmedabad,08:00:00,01:00:00,16
+49,Chef Inn Cafe - South Indian,Hyderabad,12:00:00,23:00:00,16
+50,Spice Zone Diner - Chinese,Patna,10:00:00,23:00:00,8
+51,Delight Zone Cafe - Italian,Kanpur,12:00:00,23:00:00,9
+52,Hungry Inn Grill - Chinese,Ghaziabad,08:00:00,23:00:00,10
+53,Chef Hub Dhaba - Fast Food,Lucknow,12:00:00,23:00:00,12
+54,Taste Point Grill - Desserts,Delhi,08:00:00,23:00:00,15
+55,Hungry Express Bistro - North Indian,Surat,12:00:00,23:00:00,14
+56,Hungry Express Restaurant - Continental,Pune,12:00:00,02:00:00,14
+57,Flavor Zone Cafe - Mexican,Hyderabad,08:00:00,02:00:00,12
+58,Spice Point Diner - Continental,Indore,12:00:00,00:00:00,14
+59,Zesty Inn Restaurant - Street Food,Nagpur,08:00:00,00:00:00,8
+60,Chef Hub Bakery - Italian,Patna,09:00:00,01:00:00,9
+61,Hungry Bites Kitchen - Mexican,Hyderabad,11:00:00,00:00:00,14
+62,Hungry Spot Eatery - Chinese,Patna,08:00:00,01:00:00,14
+63,Taste Bites Diner - Fast Food,Jaipur,11:00:00,22:00:00,12
+64,Delight Palace Grill - Street Food,Vadodara,12:00:00,00:00:00,15
+65,Kitchen House Bistro - Desserts,Visakhapatnam,12:00:00,23:00:00,9
+66,Delight Inn Diner - South Indian,Lucknow,08:00:00,00:00:00,11
+67,Food Corner Cafe - Italian,Delhi,10:00:00,02:00:00,9
+68,Kitchen Spot Diner - Fast Food,Kolkata,10:00:00,01:00:00,11
+69,Taste Hub Restaurant - Italian,Indore,08:00:00,02:00:00,15
+70,Spice Inn Bistro - Desserts,Hyderabad,08:00:00,01:00:00,16
+71,Flavor Bites Kitchen - Street Food,Thane,12:00:00,02:00:00,14
+72,Flavor House Dhaba - Desserts,Bhopal,09:00:00,23:00:00,12
+73,Flavor House Bistro - Desserts,Pune,07:00:00,00:00:00,11
+74,Delight Zone Kitchen - South Indian,Patna,08:00:00,23:00:00,11
+75,Chef Corner Bistro - Fast Food,Bangalore,10:00:00,00:00:00,16
+76,Kitchen Spot Cafe - Fast Food,Kolkata,10:00:00,02:00:00,8
+77,Zesty Spot Pizzeria - Continental,Mumbai,09:00:00,01:00:00,14
+78,Flavor Inn Diner - Desserts,Surat,08:00:00,00:00:00,14
+79,Kitchen Hub Grill - Fast Food,Lucknow,12:00:00,23:00:00,15
+80,Taste Bites Bakery - Fast Food,Mumbai,11:00:00,02:00:00,8
+81,Royal Spot Dhaba - Chinese,Thane,07:00:00,00:00:00,14
+82,Hungry Palace Pizzeria - Continental,Lucknow,10:00:00,00:00:00,14
+83,Delight Point Pizzeria - Beverages,Mumbai,07:00:00,00:00:00,11
+84,Royal Hub Cafe - Italian,Surat,07:00:00,02:00:00,10
+85,Food Corner Pizzeria - Street Food,Hyderabad,08:00:00,01:00:00,12
+86,Hungry Corner Diner - South Indian,Ghaziabad,08:00:00,00:00:00,9
+87,Zesty Hub Eatery - Fast Food,Vadodara,10:00:00,23:00:00,9
+88,Zesty Palace Restaurant - Street Food,Jaipur,07:00:00,02:00:00,8
+89,Hungry Inn Grill - South Indian,Kanpur,11:00:00,00:00:00,8
+90,Chef House Restaurant - Continental,Indore,12:00:00,01:00:00,10
+91,Chef Corner Bakery - Street Food,Pune,11:00:00,01:00:00,15
+92,Chef Bites Eatery - Italian,Lucknow,07:00:00,00:00:00,15
+93,Food House Diner - Fast Food,Ghaziabad,09:00:00,22:00:00,15
+94,Hungry Corner Pizzeria - Continental,Kolkata,09:00:00,00:00:00,12
+95,Zesty Express Bakery - Beverages,Mumbai,08:00:00,22:00:00,11
+96,Chef House Bakery - Desserts,Surat,12:00:00,01:00:00,15
+97,Spice Point Eatery - Fast Food,Surat,12:00:00,23:00:00,12
+98,Zesty Zone Pizzeria - Beverages,Patna,09:00:00,01:00:00,16
+99,Hungry Zone Pizzeria - Mexican,Pune,09:00:00,23:00:00,9
+100,Food Zone Restaurant - Chinese,Patna,08:00:00,23:00:00,15
+101,Delight Bites Bakery - Mexican,Ghaziabad,07:00:00,23:00:00,12
+102,Food Zone Dhaba - North Indian,Jaipur,12:00:00,02:00:00,10
+103,Delight Hub Cafe - Mexican,Patna,12:00:00,23:00:00,15
+104,Royal Hub Diner - Desserts,Jaipur,10:00:00,01:00:00,13
+105,Taste Hub Eatery - South Indian,Bhopal,07:00:00,01:00:00,15
+106,Royal Bites Cafe - Chinese,Ahmedabad,11:00:00,00:00:00,9
+107,Food Point Bakery - Street Food,Indore,11:00:00,02:00:00,11
+108,Flavor Spot Pizzeria - Mexican,Thane,11:00:00,01:00:00,12
+109,Zesty Bites Cafe - South Indian,Ghaziabad,08:00:00,23:00:00,12
+110,Royal Corner Bistro - Beverages,Chennai,07:00:00,23:00:00,8
+111,Chef House Diner - Mexican,Bhopal,07:00:00,23:00:00,12
+112,Delight House Restaurant - Mexican,Surat,12:00:00,02:00:00,11
+113,Chef Point Bakery - Chinese,Surat,09:00:00,23:00:00,9
+114,Spice Corner Eatery - Street Food,Ghaziabad,09:00:00,01:00:00,9
+115,Kitchen Express Grill - Beverages,Pune,11:00:00,01:00:00,15
+116,Royal Bites Cafe - Continental,Indore,11:00:00,00:00:00,8
+117,Royal Palace Diner - North Indian,Vadodara,12:00:00,00:00:00,8
+118,Taste House Bakery - Mexican,Thane,08:00:00,02:00:00,14
+119,Kitchen Point Pizzeria - Fast Food,Kanpur,09:00:00,00:00:00,9
+120,Taste Zone Grill - Mexican,Bhopal,12:00:00,01:00:00,16
+121,Spice House Restaurant - Mexican,Lucknow,09:00:00,22:00:00,14
+122,Flavor Hub Bakery - Fast Food,Thane,07:00:00,23:00:00,16
+123,Hungry Bites Pizzeria - North Indian,Thane,08:00:00,00:00:00,16
+124,Taste Express Pizzeria - South Indian,Bhopal,07:00:00,02:00:00,11
+125,Taste Express Bakery - Beverages,Mumbai,10:00:00,22:00:00,11
+126,Royal House Restaurant - Desserts,Ahmedabad,12:00:00,00:00:00,16
+127,Delight Spot Pizzeria - Italian,Bhopal,10:00:00,02:00:00,10
+128,Chef Palace Diner - Chinese,Visakhapatnam,07:00:00,00:00:00,14
+129,Hungry Inn Eatery - Mexican,Mumbai,12:00:00,00:00:00,15
+130,Taste House Bakery - Continental,Bhopal,09:00:00,02:00:00,16
+131,Chef House Kitchen - Italian,Kolkata,11:00:00,01:00:00,11
+132,Chef Hub Kitchen - Fast Food,Bhopal,10:00:00,23:00:00,15
+133,Spice Corner Bakery - Continental,Vadodara,07:00:00,01:00:00,9
+134,Flavor House Cafe - Fast Food,Ahmedabad,12:00:00,23:00:00,9
+135,Kitchen Express Kitchen - Fast Food,Ghaziabad,12:00:00,22:00:00,13
+136,Flavor Spot Kitchen - Beverages,Bhopal,07:00:00,02:00:00,9
+137,Food Express Bistro - Fast Food,Bangalore,07:00:00,22:00:00,15
+138,Taste Express Cafe - Continental,Delhi,07:00:00,00:00:00,13
+139,Hungry Spot Dhaba - Beverages,Surat,10:00:00,02:00:00,10
+140,Taste Corner Restaurant - Fast Food,Ghaziabad,11:00:00,23:00:00,15
+141,Zesty Corner Bistro - Mexican,Thane,10:00:00,00:00:00,8
+142,Kitchen Express Bakery - South Indian,Chennai,10:00:00,00:00:00,12
+143,Chef Express Pizzeria - Italian,Jaipur,10:00:00,01:00:00,9
+144,Food Spot Diner - Street Food,Kanpur,09:00:00,00:00:00,8
+145,Chef Express Cafe - North Indian,Vadodara,11:00:00,01:00:00,12
+146,Food Bites Kitchen - Italian,Surat,11:00:00,00:00:00,10
+147,Royal Hub Eatery - North Indian,Thane,11:00:00,00:00:00,10
+148,Royal Express Kitchen - Chinese,Indore,08:00:00,23:00:00,16
+149,Hungry Inn Bakery - Chinese,Pune,09:00:00,01:00:00,12
+150,Hungry Point Pizzeria - Chinese,Bangalore,08:00:00,01:00:00,16
+151,Hungry Point Grill - Mexican,Mumbai,11:00:00,22:00:00,15
+152,Hungry Express Diner - Continental,Nagpur,07:00:00,23:00:00,15
+153,Spice Bites Bakery - Street Food,Lucknow,08:00:00,22:00:00,15
+154,Delight Spot Restaurant - North Indian,Ahmedabad,07:00:00,00:00:00,15
+155,Royal Point Bistro - Chinese,Patna,10:00:00,01:00:00,13
+156,Flavor Spot Diner - Fast Food,Ahmedabad,12:00:00,22:00:00,15
+157,Zesty Spot Eatery - Continental,Delhi,08:00:00,01:00:00,15
+158,Food Zone Restaurant - Beverages,Kanpur,12:00:00,00:00:00,8
+159,Chef Express Bistro - Desserts,Hyderabad,07:00:00,23:00:00,8
+160,Spice Zone Bistro - Street Food,Ahmedabad,08:00:00,22:00:00,16
+161,Food Bites Bistro - Continental,Surat,08:00:00,02:00:00,8
+162,Delight Corner Dhaba - Mexican,Patna,08:00:00,22:00:00,8
+163,Taste Hub Kitchen - Street Food,Surat,09:00:00,22:00:00,10
+164,Delight Hub Dhaba - Beverages,Indore,07:00:00,22:00:00,15
+165,Kitchen Zone Bakery - South Indian,Vadodara,10:00:00,02:00:00,11
+166,Zesty Hub Bakery - Desserts,Jaipur,12:00:00,22:00:00,8
+167,Kitchen Spot Grill - Desserts,Hyderabad,12:00:00,01:00:00,9
+168,Royal Zone Diner - South Indian,Ahmedabad,08:00:00,00:00:00,16
+169,Hungry Spot Diner - Mexican,Visakhapatnam,10:00:00,02:00:00,14
+170,Royal Point Bakery - Fast Food,Kolkata,10:00:00,23:00:00,14
+171,Hungry House Grill - South Indian,Indore,09:00:00,01:00:00,13
+172,Delight Zone Dhaba - South Indian,Bhopal,07:00:00,22:00:00,9
+173,Chef Point Kitchen - Beverages,Ahmedabad,07:00:00,02:00:00,16
+174,Flavor Zone Restaurant - Continental,Indore,12:00:00,01:00:00,8
+175,Delight Bites Eatery - South Indian,Kanpur,11:00:00,02:00:00,11
+176,Taste House Bistro - Continental,Hyderabad,11:00:00,00:00:00,9
+177,Delight Bites Bistro - Beverages,Indore,11:00:00,02:00:00,16
+178,Spice Bites Eatery - Chinese,Mumbai,09:00:00,00:00:00,13
+179,Hungry Hub Dhaba - Street Food,Ahmedabad,12:00:00,01:00:00,9
+180,Taste Hub Restaurant - Italian,Visakhapatnam,10:00:00,01:00:00,15
+181,Hungry Corner Kitchen - Continental,Jaipur,11:00:00,02:00:00,9
+182,Spice Corner Dhaba - North Indian,Ghaziabad,12:00:00,22:00:00,12
+183,Kitchen Spot Pizzeria - Desserts,Ghaziabad,10:00:00,00:00:00,11
+184,Flavor Point Kitchen - South Indian,Indore,09:00:00,02:00:00,15
+185,Flavor Express Cafe - Fast Food,Surat,11:00:00,22:00:00,8
+186,Food Express Bistro - Mexican,Ahmedabad,09:00:00,00:00:00,9
+187,Spice House Grill - Chinese,Chennai,10:00:00,02:00:00,11
+188,Flavor Inn Kitchen - Fast Food,Bangalore,12:00:00,22:00:00,14
+189,Spice House Restaurant - Street Food,Lucknow,10:00:00,02:00:00,14
+190,Chef Express Restaurant - North Indian,Nagpur,09:00:00,23:00:00,15
+191,Hungry Point Grill - Italian,Hyderabad,10:00:00,02:00:00,14
+192,Flavor Point Grill - Continental,Jaipur,08:00:00,00:00:00,10
+193,Royal Inn Restaurant - Beverages,Visakhapatnam,08:00:00,00:00:00,13
+194,Taste Palace Restaurant - Mexican,Ahmedabad,08:00:00,23:00:00,10
+195,Royal Corner Pizzeria - Street Food,Thane,11:00:00,01:00:00,13
+196,Hungry Corner Pizzeria - Desserts,Bangalore,10:00:00,00:00:00,12
+197,Zesty Hub Kitchen - South Indian,Visakhapatnam,09:00:00,01:00:00,15
+198,Spice Hub Kitchen - South Indian,Jaipur,12:00:00,22:00:00,16
+199,Chef House Diner - North Indian,Patna,10:00:00,02:00:00,11
+200,Hungry Bites Pizzeria - Chinese,Visakhapatnam,07:00:00,01:00:00,9
